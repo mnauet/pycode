@@ -1,0 +1,11 @@
+24.03.2018
+https://en.wikipedia.org/wiki/Iris_flower_data_set
+https://archive.ics.uci.edu/ml/datasets/Iris
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+
+df = pd.read_csv('https://archive.ics.uci.edu/ml/' 
+'machine-learning-databases/iris/iris.data',
+ header=None)
+df = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data', header=None)
+df.tail()
+df.describe()

@@ -1,0 +1,56 @@
+15.12.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+import numpy as np 
+------------------------------------------
+make text.bat file in path;
+C:\Users\malik\AppData\Local\Programs\Python\Python36-32\Scripts
+cmd
+------------------
+pip install numpy  // on command prompt not in python
+successfully installed numpy-1.13.3
+-----------------------------
+pip install scipy
+scipy-1.0.0-cp36-none-wind32.whl
+successuflly installed scipy-1.0.0#
+if install does not work get directly from sourceforge exe and install in windows.
+-----------------------
+pip install matplotlib
+successfully installed cycleer-0.10.0 matplotlib-2.1.1 pyparsing-2.2.0
+-------------------------------
+installed 32 bit 3.6.3 version  32 bit 
+python-3.6.3(1)
+
+C:\Users\malik\AppData\Local\Programs\Python\Python36-32
+------------------------
+install also anaconda 
+https://www.anaconda.com/download/
+Anaconda3-5.0.1-Windows-x86
+C:\ProgramData\Anaconda3
+
+-----------------------------------------
+10.07.2018
+MIT course
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+
+https://www.youtube.com/watch?time_continue=65&v=ytpJdnlu9ug
+https://code.visualstudio.com/docs/python/python-tutorial
+https://www.youtube.com/watch?v=0jljZRnHwOI
+
+Select one or more lines, then press Ctrl+Enter or right-click 
+and select Run Selection/Line in Python Terminal.
+Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter
+Python: Start REPL command to opens a REPL terminal
+
+

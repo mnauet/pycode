@@ -1,0 +1,14 @@
+git
+
+git config --global user.name "mnauet"
+git config --global user.email "malik.akram@gmx.de"
+
+mnauet/mnaxxx g x
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/mnauet/40-python.git
+git push -u origin master
+
+------------------------------------------------
